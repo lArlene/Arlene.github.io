@@ -2,15 +2,15 @@
 
 ### Personal Information
 
-Name: Xinyang LIU
-Phone: (+86)187-4256-7681
-Email: liuvinyang@gmail.com
-Postcode: 116621
+- Name: Xinyang LIU
+- Phone: (+86)187-4256-7681
+- Email: liuvinyang@gmail.com
+- Postcode: 116621
 
 ### Undergraduate University and Major
 
-Undergraduate University: Dalian University of Technology
-Undergraduate Major: Software Engineering (Intensive English)
+- Undergraduate University: Dalian University of Technology
+- Undergraduate Major: Software Engineering (Intensive English)
 
 ### Honors and Awards
 
